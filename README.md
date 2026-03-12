@@ -35,22 +35,22 @@ Players can play X and O, with automatic detection of **winner** or **draw**, an
 ## 🗂 Project Folder Structure
 
 Tic-Tac-Toe
+│ 
+├── public/ 
+│ └── index.html # Main HTML file 
 │
-├── public/
-│ └── index.html # Main HTML file
+├── src/ 
+│ ├── App.js # Main React component 
+│ ├── index.js # React entry point 
+│ ├── index.css # Styling for the board and buttons 
+│ └── assets/ # Optional: images, videos, icons 
 │
-├── src/
-│ ├── App.js # Main React component
-│ ├── index.js # React entry point
-│ ├── index.css # Styling for the board and buttons
-│ └── assets/ # Optional: images, videos, icons
+├── videos/ 
+│ └── tic-tac-toe-demo.mp4 # Demo gameplay video 
 │
-├── videos/
-│ └── tic-tac-toe-demo.mp4 # Demo gameplay video
-│
-├── package.json
-├── package-lock.json
-└── README.md
+├── package.json 
+├── package-lock.json 
+└── README.md 
 
 ---
 
