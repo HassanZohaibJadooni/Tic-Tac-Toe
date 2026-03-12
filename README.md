@@ -5,20 +5,9 @@ Players can play X and O, with automatic detection of **winner** or **draw**, an
 
 ---
 
-## 🎥 Video Demo
-
-You can watch the gameplay demo directly here:
-
-<video width="600" controls >
-  <source src="videos/tic-tac-toe.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
----
-
 ##  Live Demo Deployed
 
-## [click hear]https://tic-tac-toe-sigma-pearl-88.vercel.app/
+## https://tic-tac-toe-sigma-pearl-88.vercel.app/
 
 ---
 
@@ -103,3 +92,8 @@ Integrate local storage to save game progress
 ```
 
 Made with ❤️ by Hassan Zohaib Jadoon
+
+## git hub
+https://github.com/HassanZohaibJadooni/
+
+If you find this project helpful, please consider giving it a ⭐!
