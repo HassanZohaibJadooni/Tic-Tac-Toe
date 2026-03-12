@@ -16,6 +16,11 @@ You can watch the gameplay demo directly here:
 
 ---
 
+##  Live Demo Deployed
+
+
+---
+
 ## 🚀 Features
 
 - Interactive **3x3 Tic Tac Toe board**
@@ -71,7 +76,7 @@ Tic-Tac-Toe
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe-react.git
+git clone https://github.com/HassanZohaibJadooni/Tic-Tac-Toe.git
 cd tic-tac-toe
 
 npm install
